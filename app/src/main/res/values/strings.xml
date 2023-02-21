@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SushiPoint</string>
+    <string name="imgContent">Logo</string>
+    <string name="botPlus">+</string>
+    <string name="botMinus">-</string>
+    <string name="numJug">Número de jugadores:</string>
+    <string name="jugHint">2–5 Jugadores</string>
+    <string name="jugCard">Para 2 jugadores se repartirán 10 cartas</string>
+    <string name="botPlay">JUGAR</string>
+
+</resources>
